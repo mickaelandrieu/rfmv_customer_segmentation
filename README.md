@@ -17,8 +17,6 @@ In addition to this new modelisation, some researchers introduced new matrixes t
 
 From a Machine Learning point of view, I'll will check if the clusters obtained using Unsupervised Learning are better with the most common model : KMeans.
 
-Else, I'll explore others common models like CAH and Gaussian Mixture Models.
-
 Finally, I'll contribute code able to generate the relevant visual matrixes required for Marketing actions.
 
 
