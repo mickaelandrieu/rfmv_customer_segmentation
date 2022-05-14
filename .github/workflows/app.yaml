@@ -22,4 +22,6 @@ jobs:
         pip install -r requirements.txt
     - name: Check PEP8
       run: |
-        black modelisations/ --check
+        black modelisation/ --check
+        black interpretation/ --check
+        black outliers_detection/ --check
